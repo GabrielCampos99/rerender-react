@@ -1,0 +1,10 @@
+.items-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top:  10px;
+}
+
+.item {
+    padding: 3px;
+}
